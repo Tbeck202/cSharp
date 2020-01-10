@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationEx1", "IterationEx1\IterationEx1.csproj", "{20E017CE-CF39-4AB0-AA02-B3E3123C176F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E017CE-CF39-4AB0-AA02-B3E3123C176F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{20E017CE-CF39-4AB0-AA02-B3E3123C176F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{20E017CE-CF39-4AB0-AA02-B3E3123C176F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{20E017CE-CF39-4AB0-AA02-B3E3123C176F}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
