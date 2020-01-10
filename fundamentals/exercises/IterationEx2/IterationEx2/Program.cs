@@ -6,15 +6,23 @@ namespace IterationEx2
     {
         public static void Main(string[] args)
         {
-            Console.Write("enter a number, or write \"ok\" to exit");
-            var input = int.Parse(Console.ReadLine());
             var sum = 0;
-
+            
             while (true)
             {
-                var add = sum + input;
-                sum += add;
-                Console.WriteLine(sum);
+                Console.WriteLine("enter a number, or write \"ok\" to exit");
+                var input = Console.ReadLine();
+
+                if (input == "ok")
+                {
+                    Console.WriteLine("All your numbers add up to: " + sum);
+                    break;
+                }
+                else if (input != "ok")
+                {
+                    var inputToNum = int.Parse(input);
+                    sum += inputToNum;
+                }
             }
         }
     }
