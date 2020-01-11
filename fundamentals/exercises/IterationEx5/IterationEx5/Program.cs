@@ -8,14 +8,23 @@ namespace IterationEx5
         {
             Console.WriteLine("Enter some numbers, seperated by commas.");
             var input = Console.ReadLine();
-            var numbers = new char[input.Length];
-            var max = new int[input.Length];
+
+            int max = 0;
 
             for (var i = 0; i < input.Length; i++)
             {
-                numbers[i] = input[i];
+                var toString = input[i].ToString();
+                int num;
+                
+                if (int.TryParse(toString, out num))
+                {
+                    if (num > max)
+                    {
+                        max = num;
+                    }
+                }
             }
-            Console.WriteLine(numbers);
+            Console.WriteLine(max);
         }
     }
 }
