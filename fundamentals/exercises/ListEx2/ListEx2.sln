@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEx2", "ListEx2\ListEx2.csproj", "{04D3B1D6-3964-492D-AF56-C672A0F712F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D3B1D6-3964-492D-AF56-C672A0F712F9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{04D3B1D6-3964-492D-AF56-C672A0F712F9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{04D3B1D6-3964-492D-AF56-C672A0F712F9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{04D3B1D6-3964-492D-AF56-C672A0F712F9}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
