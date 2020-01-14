@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAndTime", "DateAndTime\DateAndTime.csproj", "{EE498DD9-4FBA-4185-A26D-2742DC94374B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE498DD9-4FBA-4185-A26D-2742DC94374B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EE498DD9-4FBA-4185-A26D-2742DC94374B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EE498DD9-4FBA-4185-A26D-2742DC94374B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EE498DD9-4FBA-4185-A26D-2742DC94374B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
