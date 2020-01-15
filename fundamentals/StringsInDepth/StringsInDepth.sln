@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsInDepth", "StringsInDepth\StringsInDepth.csproj", "{86BF8B72-CCD8-4A0D-8133-C25AE2C865BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BF8B72-CCD8-4A0D-8133-C25AE2C865BB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{86BF8B72-CCD8-4A0D-8133-C25AE2C865BB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{86BF8B72-CCD8-4A0D-8133-C25AE2C865BB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{86BF8B72-CCD8-4A0D-8133-C25AE2C865BB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
