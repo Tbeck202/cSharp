@@ -17,7 +17,7 @@ namespace StringEx3
                 }
                 catch
                 {
-                    Console.WriteLine("Invalid input!");
+                    Console.WriteLine("Invalid input! Did you remeber the colon?");
                     continue;
                 }
 
