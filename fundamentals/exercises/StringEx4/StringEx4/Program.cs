@@ -9,23 +9,20 @@ namespace StringEx4
         {
             Console.WriteLine("Enter a few words, separated by spaces.");
             var input = Console.ReadLine().ToLower();
-            var pascal = new List<string>();
+            var print = "";
 
-            for(var i = 0; i < input.Length; i++)
+            if (String.IsNullOrWhiteSpace(input))
             {
-                if (input[i] == ' ')
-                {
-                    pascal.Add(input[i + 1].ToString().ToUpper());
-                    i++;
-                    continue;
-                }
-                pascal.Add(input[i].ToString());
+                Console.WriteLine("You gotta write something...");
             }
-            Console.WriteLine(pascal.ToString());
-            //foreach(var character in pascal)
-            //{
-                //Console.Write(character);
-            //}
+            
+            foreach(var word in input.Split(' '))
+            {
+                var pascal = char.ToUpper(word[0]) + word.Substring(1);
+                print += pascal;
+            }
+
+            Console.WriteLine(print);
         }
     }
 }
