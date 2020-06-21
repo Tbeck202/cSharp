@@ -1,6 +1,7 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{6DC33CC5-CC73-4833-8DD8-C96440583D7C}"
 EndProject
 Global
@@ -9,9 +10,15 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Debug|anycpu.Build.0 = Debug|anycpu
-		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Release|anycpu.ActiveCfg = Release|anycpu
-		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Release|anycpu.Build.0 = Release|anycpu
+		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{6DC33CC5-CC73-4833-8DD8-C96440583D7C}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46051856-2F48-4D67-9831-652EE0863A13}
 	EndGlobalSection
 EndGlobal

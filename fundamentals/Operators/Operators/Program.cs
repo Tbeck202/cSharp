@@ -23,6 +23,19 @@ namespace Operators
             Console.WriteLine(cc > bb && cc > aa); // true
             Console.WriteLine(cc < bb || cc > aa); // true
             Console.WriteLine(!(cc < bb || cc == aa)); // true
+
+            int aaa = 1;
+            int bbb = aaa++;
+            Console.WriteLine(aaa);
+            Console.WriteLine(bbb);
+
+            Console.WriteLine("==================================");
+
+            // FIRST aaaa (WHICH STARTS AS 1) IS INCEREMENTED BY ONE, AND THEN bbbb IS ASSIGNED THE VALUE OF aaaa (WHICH IS NOW 2) SO bbbb IS EQAUL TO 2
+            int aaaa = 1;
+            int bbbb = ++aaaa;
+            Console.WriteLine(aaaa);
+            Console.WriteLine(bbbb);
         }
     }
 }
