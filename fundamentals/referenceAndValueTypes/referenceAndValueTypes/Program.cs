@@ -14,7 +14,7 @@ namespace referenceAndValueTypes
             var a = 10; 
             var b = a; 
             b++;                                                        // a stays ten
-            Console.WriteLine(string.Format("a: {0}, b: {1}", a, b));   // b increments to 11
+            Console.WriteLine(string.Format("a: {0}, b: {1}", a, b));   // b INCREMENTS TO 11BECAUSE IT IS A COPY OF a AND IS SAVED TO A NEW PLACE IN MEMORY
 
             var array1 = new int[3] { 1, 2, 3 };
             var array2 = array1;
@@ -32,6 +32,7 @@ namespace referenceAndValueTypes
 
         public static void Increment(int number)
         {
+            // A COPY OF THE VARIABLE BEING PASSED IN IS MADE, OPERATED ON, AND THEN LOST BECAUSE NOTHING IS RETURNED FROM THIS METHOD
             number += 10;
             Console.WriteLine("Number from the increment method: " + number);
         }

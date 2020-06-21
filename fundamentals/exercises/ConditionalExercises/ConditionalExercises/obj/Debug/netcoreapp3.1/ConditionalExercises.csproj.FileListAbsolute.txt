@@ -1,0 +1,13 @@
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\bin\Debug\netcoreapp3.1\ConditionalExercises.exe
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\bin\Debug\netcoreapp3.1\ConditionalExercises.deps.json
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\bin\Debug\netcoreapp3.1\ConditionalExercises.runtimeconfig.json
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\bin\Debug\netcoreapp3.1\ConditionalExercises.runtimeconfig.dev.json
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\bin\Debug\netcoreapp3.1\ConditionalExercises.dll
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\bin\Debug\netcoreapp3.1\ConditionalExercises.pdb
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\obj\Debug\netcoreapp3.1\ConditionalExercises.csprojAssemblyReference.cache
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\obj\Debug\netcoreapp3.1\ConditionalExercises.AssemblyInfoInputs.cache
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\obj\Debug\netcoreapp3.1\ConditionalExercises.AssemblyInfo.cs
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\obj\Debug\netcoreapp3.1\ConditionalExercises.csproj.CoreCompileInputs.cache
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\obj\Debug\netcoreapp3.1\ConditionalExercises.dll
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\obj\Debug\netcoreapp3.1\ConditionalExercises.pdb
+C:\Users\tbeck202\source\repos\cSharp\fundamentals\exercises\ConditionalExercises\ConditionalExercises\obj\Debug\netcoreapp3.1\ConditionalExercises.genruntimeconfig.cache

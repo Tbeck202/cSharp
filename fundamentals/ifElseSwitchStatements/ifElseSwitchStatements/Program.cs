@@ -25,7 +25,7 @@ namespace ifElseSwitchStatements
             // CONDITIONAL STATEMENT-----------------------------------------------------
             bool isGoldCustomer = true;
 
-            float price = (isGoldCustomer) ? 19.95f : 29.95f;
+            float price = (isGoldCustomer) ? 19.95f : 29.95f; // ( < condition > ) ? < if true do this > : < else do this >
 
             Console.WriteLine("$" + price);
 
